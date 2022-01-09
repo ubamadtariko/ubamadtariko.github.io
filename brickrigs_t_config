@@ -1,9 +1,9 @@
 
 {
-  "show": false,
+  "show": true,
   "CheckR": true,
-  "com": true,
-  "published": true,
+  "com": false,
+  "published": false,
   "version": 1,
   "newAppLink": "com.Trailmix.LoveAndPiesMerges",
   
